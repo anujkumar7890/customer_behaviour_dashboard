@@ -247,7 +247,7 @@ Potential insights generated from the analysis include:
 
 ### 1. Clone Repository
 
-git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
+git clone https://github.com/anujkumar7890/customer_behaviour_dashboard.git
 cd customer-shopping-behavior-analysis
 
 ### 2. Install Dependencies
